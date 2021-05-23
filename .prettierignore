@@ -1,0 +1,6 @@
+.sfdx
+node_modules
+scripts
+.forceignore
+.gitignore
+manifest
