@@ -1,3 +1,3 @@
 public class Testing {
-	public String test = 'Test';
+    public String test = 'Test';
 }
